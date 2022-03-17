@@ -1,0 +1,6 @@
+pydoc
+flask
+flask_pymongo
+pymongo
+bson
+pprint
